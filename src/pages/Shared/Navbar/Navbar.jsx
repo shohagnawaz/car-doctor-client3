@@ -8,6 +8,7 @@ const Navbar = () => {
         <li><Link to="/">Service</Link></li>
         <li><Link to="/">Team</Link></li>
         <li><Link to="/">Contact</Link></li>
+        <li><Link to="/login">Login</Link></li>
     </>
   return (
     <div className="navbar bg-base-100 h-28">
